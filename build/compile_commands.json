@@ -1,0 +1,56 @@
+[
+{
+  "directory": "D:/download/PBL2-DUT_BIRD-demo-cua-dung/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\DutBird.dir\\includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\DutBird.dir\\src\\core\\Game.cpp.obj -c D:\\download\\PBL2-DUT_BIRD-demo-cua-dung\\PBL2-DUT_BIRD-demo-cua-dung\\src\\core\\Game.cpp",
+  "file": "D:/download/PBL2-DUT_BIRD-demo-cua-dung/PBL2-DUT_BIRD-demo-cua-dung/src/core/Game.cpp",
+  "output": "CMakeFiles/DutBird.dir/src/core/Game.cpp.obj"
+},
+{
+  "directory": "D:/download/PBL2-DUT_BIRD-demo-cua-dung/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\DutBird.dir\\includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\DutBird.dir\\src\\entities\\Bird.cpp.obj -c D:\\download\\PBL2-DUT_BIRD-demo-cua-dung\\PBL2-DUT_BIRD-demo-cua-dung\\src\\entities\\Bird.cpp",
+  "file": "D:/download/PBL2-DUT_BIRD-demo-cua-dung/PBL2-DUT_BIRD-demo-cua-dung/src/entities/Bird.cpp",
+  "output": "CMakeFiles/DutBird.dir/src/entities/Bird.cpp.obj"
+},
+{
+  "directory": "D:/download/PBL2-DUT_BIRD-demo-cua-dung/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\DutBird.dir\\includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\DutBird.dir\\src\\entities\\Ground.cpp.obj -c D:\\download\\PBL2-DUT_BIRD-demo-cua-dung\\PBL2-DUT_BIRD-demo-cua-dung\\src\\entities\\Ground.cpp",
+  "file": "D:/download/PBL2-DUT_BIRD-demo-cua-dung/PBL2-DUT_BIRD-demo-cua-dung/src/entities/Ground.cpp",
+  "output": "CMakeFiles/DutBird.dir/src/entities/Ground.cpp.obj"
+},
+{
+  "directory": "D:/download/PBL2-DUT_BIRD-demo-cua-dung/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\DutBird.dir\\includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\DutBird.dir\\src\\entities\\Pipe.cpp.obj -c D:\\download\\PBL2-DUT_BIRD-demo-cua-dung\\PBL2-DUT_BIRD-demo-cua-dung\\src\\entities\\Pipe.cpp",
+  "file": "D:/download/PBL2-DUT_BIRD-demo-cua-dung/PBL2-DUT_BIRD-demo-cua-dung/src/entities/Pipe.cpp",
+  "output": "CMakeFiles/DutBird.dir/src/entities/Pipe.cpp.obj"
+},
+{
+  "directory": "D:/download/PBL2-DUT_BIRD-demo-cua-dung/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\DutBird.dir\\includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\DutBird.dir\\src\\main.cpp.obj -c D:\\download\\PBL2-DUT_BIRD-demo-cua-dung\\PBL2-DUT_BIRD-demo-cua-dung\\src\\main.cpp",
+  "file": "D:/download/PBL2-DUT_BIRD-demo-cua-dung/PBL2-DUT_BIRD-demo-cua-dung/src/main.cpp",
+  "output": "CMakeFiles/DutBird.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/download/PBL2-DUT_BIRD-demo-cua-dung/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\DutBird.dir\\includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\DutBird.dir\\src\\math_lib\\MathLib.cpp.obj -c D:\\download\\PBL2-DUT_BIRD-demo-cua-dung\\PBL2-DUT_BIRD-demo-cua-dung\\src\\math_lib\\MathLib.cpp",
+  "file": "D:/download/PBL2-DUT_BIRD-demo-cua-dung/PBL2-DUT_BIRD-demo-cua-dung/src/math_lib/MathLib.cpp",
+  "output": "CMakeFiles/DutBird.dir/src/math_lib/MathLib.cpp.obj"
+},
+{
+  "directory": "D:/download/PBL2-DUT_BIRD-demo-cua-dung/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\DutBird.dir\\includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\DutBird.dir\\src\\systems\\PipeSpawn.cpp.obj -c D:\\download\\PBL2-DUT_BIRD-demo-cua-dung\\PBL2-DUT_BIRD-demo-cua-dung\\src\\systems\\PipeSpawn.cpp",
+  "file": "D:/download/PBL2-DUT_BIRD-demo-cua-dung/PBL2-DUT_BIRD-demo-cua-dung/src/systems/PipeSpawn.cpp",
+  "output": "CMakeFiles/DutBird.dir/src/systems/PipeSpawn.cpp.obj"
+},
+{
+  "directory": "D:/download/PBL2-DUT_BIRD-demo-cua-dung/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\DutBird.dir\\includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\DutBird.dir\\src\\systems\\PowerUp.cpp.obj -c D:\\download\\PBL2-DUT_BIRD-demo-cua-dung\\PBL2-DUT_BIRD-demo-cua-dung\\src\\systems\\PowerUp.cpp",
+  "file": "D:/download/PBL2-DUT_BIRD-demo-cua-dung/PBL2-DUT_BIRD-demo-cua-dung/src/systems/PowerUp.cpp",
+  "output": "CMakeFiles/DutBird.dir/src/systems/PowerUp.cpp.obj"
+},
+{
+  "directory": "D:/download/PBL2-DUT_BIRD-demo-cua-dung/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\DutBird.dir\\includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\DutBird.dir\\src\\systems\\collisionmanage.cpp.obj -c D:\\download\\PBL2-DUT_BIRD-demo-cua-dung\\PBL2-DUT_BIRD-demo-cua-dung\\src\\systems\\collisionmanage.cpp",
+  "file": "D:/download/PBL2-DUT_BIRD-demo-cua-dung/PBL2-DUT_BIRD-demo-cua-dung/src/systems/collisionmanage.cpp",
+  "output": "CMakeFiles/DutBird.dir/src/systems/collisionmanage.cpp.obj"
+}
+]
